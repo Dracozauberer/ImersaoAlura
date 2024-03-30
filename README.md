@@ -1,2 +1,2 @@
 # ImersaoAlura
-Repositório teste para a IMersão ALURA
+Repositório teste para a Imersão ALURA
